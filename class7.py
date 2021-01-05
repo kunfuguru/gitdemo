@@ -2,7 +2,7 @@
 class A:
 
     def __init__(self):
-        print("in A")
+        print("in A Test")
 
 class B:
 
