@@ -7,7 +7,7 @@ class A:
 class B:
 
     def __init__(self):
-        print("in B")
+        print("in B Test B 1234567")
 
 
 class C(A,B):
